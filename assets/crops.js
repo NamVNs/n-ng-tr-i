@@ -1,4 +1,4 @@
-module.exports = [
+[
  {
  ID: 0,
  name: "Blue Jazz",
